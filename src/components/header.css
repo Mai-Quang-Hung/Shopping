@@ -1,0 +1,24 @@
+.shop {
+  font-family: 'Arizonia', Helvetica, sans-serif;
+  color: red;
+  user-select: none;
+  font-size: 35px;
+  padding: 0;
+  text-shadow: 4px 4px 3px rgba(253, 253, 253, 0.089);
+
+}
+
+.shop:hover,
+.shop:focus {
+  color: red;
+}
+
+.item_header {
+  margin-left: 40px;
+}
+
+.header__button {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
